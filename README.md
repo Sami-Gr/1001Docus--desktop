@@ -5,7 +5,7 @@ Made for the 1001Tech community.
 VPN France is needed to play Arte channels.
 
 ### Download link:
- https://drive.google.com/file/d/1THS81Q4kWid3L8A81th68dHNOXZ9nnLU/view
+ http://www.mediafire.com/file/r798etr0rzogjwb/1001docus.rar/file
  
 ### Free Channels:
 
