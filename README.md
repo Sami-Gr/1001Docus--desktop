@@ -18,6 +18,7 @@ Made for the 1001Tech community.
  * [FluentWPF] (https://github.com/sourcechord/FluentWPF)
 
 ### Some pictures:
+![Some pictures:](https://i.imgur.com/1HbJ6kA.jpg)
 ![Some pictures:](https://i.imgur.com/xsTvT6D.png)
 ![Some pictures:](https://i.imgur.com/Z56Pq4v.png)
 ![Some pictures:](https://i.imgur.com/iczG2o6.jpg)
