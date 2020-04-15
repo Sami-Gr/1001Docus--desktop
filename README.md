@@ -2,6 +2,8 @@
 Watch live Documentary Channels.
 Made for the 1001Tech community.
 
+VPN France is needed to play Arte channels.
+
 ### Free Channels:
 
  * Nat Geo English
